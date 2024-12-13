@@ -112,8 +112,8 @@ A note indicating the data used by the model is sourced from various articles an
 
 
 Hugging Face Spaces Documentation
-Streamlit Documentation
-TIDB Cloud Documentaion
+Gradio Documentation
+SQL Documentaion
 
 📞 Contact
 
